@@ -1,37 +1,35 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about]
+date: 2019-03-02
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+![Profile picture](../assets/img/pierre-photo.jpg){:class="img-responsive" style="width:400px; height:400px"}.
 
-## Preview
+## Introduction
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I am a third year Communications Systems bachelor's student at Swiss Federal Institute of Technology (EPFL). I am currently doing a one year exchange program at the Hong Kong University of Science and Technology (HKUST).
+Otherwise, I am passionate by Mathematics and Computer Science.
+I like developing mobile applications, especially for Android. Also, I am interested in Machine Learning and Data Science. I am finally interested decentralised systems, user privacy, and blockchain.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## What I currently do
 
-## Getting Started
+* Exchange Student - [HKUST](https://www.ust.hk/) from [EPFL](https://www.epfl.ch/)
+* Administrator - [Blockchain Student Association](http://bsa.epfl.ch/)
+* IT Consultant - [Junior Enterprise EPFL](https://je.epfl.ch/)  
+* Vice President / Treasurer - [Blockchain Society](https://blockchainsociety.ch/)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Find more about me in my [Resume](https://github.com/pierre2356/Resume/blob/master/Resume_Pierre_Schutz.pdf)
+
+## My projects
+
+<div markdown="0"><a href="{{ site.url }}/projects" class="btn">Projects</a></div>
+
+## Contact
+
+* Email : [pierreschutz@rocketmail.com](mailto:pierreschutz@rocketmail.com)
+* LinkedIn : [https://www.linkedin.com/in/pierreschutz/](https://www.linkedin.com/in/pierreschutz/)
+* GitHub : [https://github.com/pierre2356](https://github.com/pierre2356)
+* HackerRank : [https://www.hackerrank.com/profile/pierreschutz](https://www.hackerrank.com/profile/pierreschutz)
