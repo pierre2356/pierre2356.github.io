@@ -1,7 +1,7 @@
 # Site
 title:              Pierre Schutz
-bio:                'EPFL third year communications systems bachelor's student.'
-description:        "This is a description"
+bio:                'EPFL third year communications systems bachelor''s student.'
+description:        'This is a description'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              pierreschutz@rocketmail.com
+#email:              pierreschutz@rocketmail.com
 #twitter:            username
 #facebook:           username
 github-url:         pierre2356
