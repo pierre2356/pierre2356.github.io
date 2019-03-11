@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:              pierreschutz@rocketmail.com
+email:              pierre.schutz.work@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         pierre2356
@@ -68,6 +68,9 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+
+plugins:
+ - jekyll-redirect-from
 
 jekyll-mentions:
     base_url: https://github.com

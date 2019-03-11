@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About me
+title: Pierre Schutz
 tags: [about]
 date: 2019-03-02
 comments: false
+redirect_from: "/projects"
 ---
 
 ![Profile picture](../assets/img/pierre-photo.jpg){:class="img-responsive" style="width:400px; height:400px"}.
@@ -25,11 +26,41 @@ Find more about me in my [Resume](https://github.com/pierre2356/Resume/blob/mast
 
 ## My projects
 
-<div markdown="0"><a href="{{ site.url }}/projects" class="btn">Projects</a></div>
+### Websites
 
-## Contact
+Here are the few websites I built using Wordpress :
 
-* Email : [pierreschutz@rocketmail.com](mailto:pierreschutz@rocketmail.com)
+* [Blockchain Student Association website](https://bsa.epfl.ch)
+* [Blockchain Society website](https://blockchainsociety.ch/)
+
+### Games
+
+* [Mastermind solver](https://github.com/pierre2356/Mastermind-solver/blob/master/README.md)
+* [Assembly pong](https://github.com/pierre2356/Pong-NiosII)
+
+### Research
+
+I am currently working on a research project which consists of building a decentralised file sharing system (like BitTorrent but without a centralised tracker or static bootstrap nodes).
+
+* [Project description]({{ site.url }}/dappster-project)
+
+### Object Oriented Programming Course
+
+During the course [_Practise of Object Oriented Programming_](http://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) at EPFL, where I was student during my first year and teaching assistant during the second, we made two big term projects :
+* [GameBoy emulator](https://cs108.epfl.ch/archive/18/p/00_introduction.html)
+* [Alpine panoramas drawer](https://cs108.epfl.ch/archive/17/p/00_introduction.html)
+
+### Mobile development
+
+* [Firebase Realtime Database client](https://github.com/pierre2356/Firebase-Kotlin-Android-Simple-Read-Write)
+
+
+
+
+## Contact and information
+
+* Email : [pierre.schutz.work@gmail.com](mailto:pierre.schutz.work@gmail.com)
 * LinkedIn : [https://www.linkedin.com/in/pierreschutz/](https://www.linkedin.com/in/pierreschutz/)
 * GitHub : [https://github.com/pierre2356](https://github.com/pierre2356)
 * HackerRank : [https://www.hackerrank.com/profile/pierreschutz](https://www.hackerrank.com/profile/pierreschutz)
+* Resume / CV : [Pdf Resume on Github](https://github.com/pierre2356/Resume/blob/master/Resume_Pierre_Schutz.pdf)
