@@ -22,7 +22,7 @@ I like developing mobile applications, especially for Android. Also, I am intere
 * IT Consultant - [Junior Enterprise EPFL](https://je.epfl.ch/)  
 * Vice President / Treasurer - [Blockchain Society](https://blockchainsociety.ch/)
 
-Find more about me in my [Resume](https://github.com/pierre2356/Resume/blob/master/Resume_Pierre_Schutz.pdf)
+Find more about me in my [Resume](https://github.com/pierreschutz/Resume/blob/master/Resume_Pierre_Schutz.pdf)
 
 ## My projects
 
@@ -35,8 +35,8 @@ Here are the few websites I built using Wordpress :
 
 ### Games
 
-* [Mastermind solver](https://github.com/pierre2356/Mastermind-solver/blob/master/README.md)
-* [Assembly pong](https://github.com/pierre2356/Pong-NiosII)
+* [Mastermind solver](https://github.com/pierreschutz/Mastermind-solver/blob/master/README.md)
+* [Assembly pong](https://github.com/pierreschutz/Pong-NiosII)
 
 ### Research
 
@@ -61,6 +61,6 @@ During the course [_Practise of Object Oriented Programming_](http://edu.epfl.ch
 
 * Email : [pierre.schutz.work@gmail.com](mailto:pierre.schutz.work@gmail.com)
 * LinkedIn : [https://www.linkedin.com/in/pierreschutz/](https://www.linkedin.com/in/pierreschutz/)
-* GitHub : [https://github.com/pierre2356](https://github.com/pierre2356)
+* GitHub : [https://github.com/pierreschutz](https://github.com/pierreschutz)
 * HackerRank : [https://www.hackerrank.com/profile/pierreschutz](https://www.hackerrank.com/profile/pierreschutz)
-* Resume / CV : [Pdf Resume on Github](https://github.com/pierre2356/Resume/blob/master/Resume_Pierre_Schutz.pdf)
+* Resume / CV : [Pdf Resume on Github](https://github.com/pierreschutz/Resume/blob/master/Resume_Pierre_Schutz.pdf)
